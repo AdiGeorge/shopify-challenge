@@ -1,0 +1,1590 @@
+{
+  "current": {
+    "color_headings": "#2e3b47",
+    "color_body_text": "#222222",
+    "color_links": "#2e3b47",
+    "color_bg_primary_button": "#2e3b47",
+    "color_text_primary_button": "#ffffff",
+    "color_text_white_button": "#2e3b47",
+    "color_text_input": "#2e3b47",
+    "color_border_input": "#aaa",
+    "color_bg_input": "#fff",
+    "color_error_input": "#e91e63",
+    "color_bg_label_default": "#000",
+    "color_text_label_default": "#fff",
+    "color_bg_label_sale": "#2e3b47",
+    "color_text_label_sale": "#222",
+    "type_header_font": "claire_news_n3",
+    "type_base_font": "lato_n4",
+    "button_add_to_cart": "Add to cart",
+    "button_sold_out": "Sold out",
+    "button_preorder": "Pre-order",
+    "previous_button_text": "Previous",
+    "next_button_text": "Next",
+    "read_more_button_text": "Read More",
+    "read_less_button_text": "Read Less",
+    "enable_breadcrumb": true,
+    "breadcrumb_home_text": "Home",
+    "is_available_options_enabled": false,
+    "available_options_text": "finishes available",
+    "show_product_card_labels": true,
+    "product_card_label_sale": "Sale",
+    "enable_product_reviews": true,
+    "enable_product_quick_add": true,
+    "product_quick_add_button_text": "Buy",
+    "social_icons_enabled": true,
+    "social_logo_height": 24,
+    "social_twitter_url": "http:\/\/twitter.com\/shopify",
+    "social_twitter_logo": "shopify:\/\/shop_images\/icon-twitter.png",
+    "social_facebook_url": "https:\/\/www.facebook.com\/shopify",
+    "social_facebook_logo": "shopify:\/\/shop_images\/icon-facebook.png",
+    "social_pinterest_url": "https:\/\/www.pinterest.com\/shopify",
+    "social_pinterest_logo": "shopify:\/\/shop_images\/icon-pinterest.png",
+    "social_instagram_url": "https:\/\/instagram.com\/shopify",
+    "social_instagram_logo": "shopify:\/\/shop_images\/icon-instagram.png",
+    "social_linkedin_url": "https:\/\/linkedin.com\/shopify",
+    "social_linkedin_logo": "shopify:\/\/shop_images\/icon-linkedin.png",
+    "social_youtube_url": "https:\/\/www.youtube.com\/user\/shopify",
+    "social_youtube_logo": "shopify:\/\/shop_images\/icon-youtube.png",
+    "social_vimeo_url": "https:\/\/vimeo.com\/shopify",
+    "social_vimeo_logo": "shopify:\/\/shop_images\/icon-vimeo.png",
+    "cookie_consent_cookie_anchor_text": "cookies",
+    "cookie_consent_privacy_url": "shopify:\/\/pages\/privacy-policy",
+    "cookie_consent_compliance_text": "We use {COOKIE} to ensure you get the best experience. 🍪",
+    "cookie_consent_accept_text": "Okay",
+    "favicon": "shopify:\/\/shop_images\/icon-vimeo.png",
+    "meta_site_name": "",
+    "meta_theme_colour": "#000000",
+    "enable_recharge": false,
+    "enable_chargebee": false,
+    "chargebee_site_name": "",
+    "subscriptions_label": "Delivery every",
+    "subscriptions_button": "Subscribe & checkout",
+    "intercom_app_id": "",
+    "zendesk_key": "",
+    "pinterest_account_id": "",
+    "pinterest_meta_content": "",
+    "google_site_verification_content": "",
+    "google_organization_name": "Project Vanilla",
+    "google_organization_logo": "shopify:\/\/shop_images\/vanilla-logo.png",
+    "google_organization_street_address": "Købmagergade 3A, 4",
+    "google_organization_city": "Copenhagen",
+    "google_organization_region": "Hovedstaden",
+    "google_organization_zip_code": "1150",
+    "google_organization_country": "Denmark",
+    "google_organization_support_phone": "+4512345678",
+    "google_organization_support_email": "support@brand.com",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Playfair Display",
+    "checkout_body_font": "Lato",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "enable_hreflang": true,
+    "hreflang_tags": "<link rel=\"alternate\" hreflang=\"x-default\" href=\"https:\/\/vanilla-theme.com\">",
+    "color_label_default": "#000",
+    "color_label_sale": "#e91e63",
+    "mailchimp_newsletter_enabled": true,
+    "mailchimp_newsletter_script": "<script type=\"text\/javascript\" src=\"\/\/downloads.mailchimp.com\/js\/signup-forms\/popup\/unique-methods\/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"><\/script><script type=\"text\/javascript\">window.dojoRequire([\"mojo\/signup-forms\/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us17.list-manage.com\",\"uuid\":\"64d3be2e165b7a1b3ebeca535\",\"lid\":\"5a05a4d023\",\"uniqueMethods\":true}) })<\/script>",
+    "mailchimp_newsletter_base_url": "mc.us17.list-manage.com",
+    "mailchimp_newsletter_uuid": "64d3be2e165b7a1b3ebeca535",
+    "mailchimp_newsletter_list_id": "5a05a4d023",
+    "primary_color": "#000",
+    "social_logo_width": 24,
+    "social_google_plus_url": "https:\/\/plus.google.com\/+shopify",
+    "social_google_plus_logo": "shopify:\/\/shop_images\/icon-google.png",
+    "social_twitter_icon": "shopify:\/\/shop_images\/icon-twitter.png",
+    "color_text": "#3d4246",
+    "color_sale_text": "#557B97",
+    "color_button": "#557B97",
+    "color_button_text": "#fff",
+    "color_small_button_text_border": "#3d4246",
+    "color_text_field_text": "#000",
+    "color_text_field_border": "#949494",
+    "color_text_field": "#fff",
+    "color_image_overlay_text": "#fff",
+    "color_image_overlay": "#3d4246",
+    "image_overlay_opacity": 40,
+    "color_borders": "#e8e9eb",
+    "color_body_bg": "#fff",
+    "type_header_base_size": 26,
+    "type_base_size": 16,
+    "type_bold_product_titles": false,
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "promotional_message": "Free international shipping on orders of $100+",
+          "promotional_message_mobile": "",
+          "banner_background_color": "#2e3b47",
+          "banner_text_color": "#ffffff",
+          "logo": "shopify:\/\/shop_images\/vanilla-logo.png",
+          "logo_width": 100,
+          "main_navigation": "main-menu",
+          "show_accounts": true,
+          "account_register_text": "Sign up",
+          "account_login_text": "Log in",
+          "account_logout_text": "Log out",
+          "account_text": "My Account",
+          "cart_icon": "icon_bag",
+          "cart_text": "Cart",
+          "menu_text": "Menu",
+          "menu_close_text": "Close"
+        }
+      },
+      "1568644662150": {
+        "type": "featured-products",
+        "blocks": {
+          "1571314069972": {
+            "type": "product",
+            "settings": {
+              "product": "native-navy-dial-mesh-watch-strap"
+            }
+          },
+          "1571314075924": {
+            "type": "product",
+            "settings": {
+              "product": "native-black-dial-mesh-watch-strap"
+            }
+          },
+          "1571314079826": {
+            "type": "product",
+            "settings": {
+              "product": "pioneer-white-dial-mesh-watch-strap"
+            }
+          },
+          "1571314091515": {
+            "type": "product",
+            "settings": {
+              "product": "pioneer-navy-dial-mesh-watch-strap"
+            }
+          }
+        },
+        "block_order": [
+          "1571314069972",
+          "1571314075924",
+          "1571314079826",
+          "1571314091515"
+        ],
+        "settings": {
+          "heading": "Our Bestsellers",
+          "show_prices": true
+        }
+      },
+      "1568652548273": {
+        "type": "blog-posts",
+        "blocks": {
+          "1571235113086": {
+            "type": "blog-post",
+            "settings": {
+              "article": "blog\/what-is-the-noon-diem"
+            }
+          },
+          "1568706784698": {
+            "type": "blog-post",
+            "settings": {
+              "article": "blog\/how-balanced-are-you"
+            }
+          },
+          "1568652551636": {
+            "type": "blog-post",
+            "settings": {
+              "article": "blog\/lorem-ipsum-dolor-sit-amet-has-ne-eros-minimum-disputationi"
+            }
+          },
+          "1568660994539": {
+            "type": "blog-post",
+            "settings": {
+              "article": "blog\/_test"
+            }
+          }
+        },
+        "block_order": [
+          "1571235113086",
+          "1568706784698",
+          "1568652551636",
+          "1568660994539"
+        ],
+        "settings": {
+          "heading": "Latest News",
+          "text_colour": "#000000",
+          "background_colour": "#ffffff",
+          "blog_link_text": "View all posts",
+          "blog_link_url": ""
+        }
+      },
+      "1568667753820": {
+        "type": "usp-bar",
+        "blocks": {
+          "1568667757733": {
+            "type": "usp",
+            "settings": {
+              "usp_icon": "shopify:\/\/shop_images\/usp-icon-shipping.jpg",
+              "usp_icon_width": 20,
+              "usp_title": "FREE SHIPPING (ORDERS +39€)"
+            }
+          },
+          "1568667827285": {
+            "type": "usp",
+            "settings": {
+              "usp_icon": "shopify:\/\/shop_images\/usp-icon-returns.jpg",
+              "usp_icon_width": 20,
+              "usp_title": "FREE RETURNS (ORDERS +60€)"
+            }
+          },
+          "1568667843560": {
+            "type": "usp",
+            "settings": {
+              "usp_icon": "shopify:\/\/shop_images\/usp-icon-warranty.jpg",
+              "usp_icon_width": 20,
+              "usp_title": "2 Years Warranty"
+            }
+          },
+          "1568667857549": {
+            "type": "usp",
+            "settings": {
+              "usp_icon": "shopify:\/\/shop_images\/usp-icon-secure-checkout.jpg",
+              "usp_icon_width": 20,
+              "usp_title": "100% SAFE & SECURE CHECKOUT"
+            }
+          }
+        },
+        "block_order": [
+          "1568667757733",
+          "1568667827285",
+          "1568667843560",
+          "1568667857549"
+        ],
+        "settings": {
+          "display_icons_above_text": false
+        }
+      },
+      "collection-navigation": {
+        "type": "collection-navigation",
+        "settings": {
+          "disable_navigation": false,
+          "mobile_layout": "horisontal_menu",
+          "collection_navigation": "collection-navigation"
+        }
+      },
+      "1568809708434": {
+        "type": "featured-content",
+        "blocks": {
+          "1568809715576": {
+            "type": "block",
+            "settings": {
+              "image_desktop": "shopify:\/\/shop_images\/featured-content-1.jpg",
+              "image_mobile": "",
+              "heading": "Our watches",
+              "text_colour": "#ffffff",
+              "link": "shopify:\/\/collections\/protein-powders",
+              "button_1_text": "Shop now",
+              "button_1_link": "",
+              "button_2_text": "Shop now",
+              "button_2_link": ""
+            }
+          },
+          "1568811750741": {
+            "type": "block",
+            "settings": {
+              "image_desktop": "shopify:\/\/shop_images\/featured-content-2.jpg",
+              "image_mobile": "",
+              "heading": "Women's Watches",
+              "text_colour": "#ffffff",
+              "link": "shopify:\/\/collections",
+              "button_1_text": "Shop now",
+              "button_1_link": "",
+              "button_2_text": "Shop now",
+              "button_2_link": ""
+            }
+          },
+          "1568812327765": {
+            "type": "block",
+            "settings": {
+              "image_desktop": "shopify:\/\/shop_images\/featured-content-3.jpg",
+              "image_mobile": "",
+              "heading": "Men's Watches",
+              "text_colour": "#ffffff",
+              "link": "shopify:\/\/collections",
+              "button_1_text": "Shop now",
+              "button_1_link": "",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          },
+          "1568812357525": {
+            "type": "block",
+            "settings": {
+              "image_desktop": "shopify:\/\/shop_images\/featured-content-4.jpg",
+              "image_mobile": "",
+              "heading": "Staff Picks",
+              "text_colour": "#f8f8f8",
+              "link": "shopify:\/\/collections",
+              "button_1_text": "Shop now",
+              "button_1_link": "",
+              "button_2_text": "Shop now",
+              "button_2_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1568809715576",
+          "1568811750741",
+          "1568812327765",
+          "1568812357525"
+        ],
+        "settings": {
+          "tiles_with_padding": true
+        }
+      },
+      "product-details": {
+        "type": "product-details",
+        "settings": {
+          "preorder_text": ""
+        }
+      },
+      "usp-bar": {
+        "type": "usp-bar",
+        "blocks": {
+          "1571299713494": {
+            "type": "usp",
+            "settings": {
+              "usp_icon": "shopify:\/\/shop_images\/usp-icon-shipping.jpg",
+              "usp_icon_width": 20,
+              "usp_title": "FREE SHIPPING (ORDERS +39€)"
+            }
+          },
+          "1571299744691": {
+            "type": "usp",
+            "settings": {
+              "usp_icon": "shopify:\/\/shop_images\/usp-icon-returns.jpg",
+              "usp_icon_width": 20,
+              "usp_title": "FREE RETURNS (ORDERS +60€)"
+            }
+          },
+          "1571299753697": {
+            "type": "usp",
+            "settings": {
+              "usp_icon": "shopify:\/\/shop_images\/usp-icon-warranty.jpg",
+              "usp_icon_width": 20,
+              "usp_title": "2 YEARS WARRANTY"
+            }
+          },
+          "1571299763191": {
+            "type": "usp",
+            "settings": {
+              "usp_icon": "shopify:\/\/shop_images\/usp-icon-secure-checkout.jpg",
+              "usp_icon_width": 20,
+              "usp_title": "100% SAFE & SECURE CHECKOUT"
+            }
+          }
+        },
+        "block_order": [
+          "1571299713494",
+          "1571299744691",
+          "1571299753697",
+          "1571299763191"
+        ],
+        "settings": {
+          "display_icons_above_text": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "background_color": "#f9f9f9",
+          "footer_linklist": "footer-1",
+          "section_title_1": "",
+          "richtext_1": "",
+          "section_title_2": "",
+          "richtext_2": "",
+          "payment_method_label": "Our payment methods",
+          "payment_method_icons_width": 40
+        }
+      },
+      "page-password": {
+        "type": "page-password",
+        "settings": {
+          "background_image": "shopify:\/\/shop_images\/brand-teaser.jpg",
+          "logo": "",
+          "logo_width": 400,
+          "text_colour": "#ffffff",
+          "heading": "Introducing Vanilla",
+          "subheading": "The holy grail of Shopify themes",
+          "button_text": "",
+          "button_email": "",
+          "enter_store_popup_title": "Enter password to access store",
+          "enter_store_popup_access_button_text": "Log in",
+          "enter_store_popup_input_placeholder": "Enter Password",
+          "enter_store_popup_submit_button_text": "Enter Store"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "title": "Your Cart",
+          "continue_shopping_text": "Continue Shopping",
+          "continue_shopping_url": "\/collections",
+          "promotion_bar_background_color": "#2e3b47",
+          "promotion_bar_text_color": "#ffffff",
+          "promotion_bar_enabled": true,
+          "promotion_bar_text": "Spend for more than $20.00 to get free shipping",
+          "button_remove_text": "Remove",
+          "order_summary_text": "Order summary",
+          "subtotal_text": "Subtotal",
+          "enable_taxes": true,
+          "tax_text": "Tax",
+          "delivery_text": "<p>Delivery Times 3 - 5 Days<br>(weekdays Mon-Fri)<\/p>",
+          "delivery_price": "Free",
+          "enable_giftcards_discounts": false,
+          "giftcards_discounts_text": "Giftcard & Discounts",
+          "giftcards_discounts_price": "Added at checkout",
+          "button_checkout_text": "Secure checkout",
+          "enable_cart_note": true,
+          "cart_note_label": "Special instructions",
+          "cart_note_placeholder": "Add comment to your order",
+          "disclaimer_text": "Our returns are free and easy. If something isn’t quite right, you have 14 days to send it back to us. Read more in our",
+          "disclaimer_link_text": "Shipping & returns",
+          "disclaimer_link_url": "shopify:\/\/pages\/our-story",
+          "payment_options_text": "Our payment methods - pay with visa, master card, amex or paypal",
+          "empty_cart_text": "Your cart is empty",
+          "button_shop_now_text": "Shop now",
+          "button_shop_now_url": "shopify:\/\/collections"
+        }
+      },
+      "cart-upsell": {
+        "type": "cart-upsell",
+        "settings": {
+          "show_upsell": true,
+          "heading": "You May Also Like...",
+          "upsell_collection": "mens-watches",
+          "products_shown": 4
+        }
+      },
+      "hero-video": {
+        "type": "hero-video",
+        "settings": {
+          "show_section": false,
+          "enable_overlay": true,
+          "overlay_color": "#000",
+          "overlay_opacity": 5,
+          "text_color": "#fff",
+          "text_color_mobile": "#000",
+          "text_position_vertical": "center",
+          "text_position_horisontal": "center",
+          "alignment": "center",
+          "heading": "Introducing Vanilla",
+          "subheading": "The holy grail of Shopify themes",
+          "button_text_1": "Buy now",
+          "button_link_1": "shopify:\/\/collections",
+          "button_color_1": "button button-white",
+          "button_text_2": "Learn more",
+          "button_link_2": "shopify:\/\/collections",
+          "button_color_2": "button button-white",
+          "video_poster_desktop": "shopify:\/\/shop_images\/hero-video-poster-desktop.jpg",
+          "video_poster_mobile": "shopify:\/\/shop_images\/hero-video-poster-mobile.jpg",
+          "video_url_desktop_mp4": "https:\/\/storage.googleapis.com\/cdn.nordgreen.com\/videos\/hero_banner.mp4",
+          "video_url_desktop_webm": "https:\/\/storage.googleapis.com\/cdn.nordgreen.com\/videos\/hero_banner.webm",
+          "video_url_mobile_mp4": "https:\/\/storage.googleapis.com\/cdn.nordgreen.com\/videos\/Mobile_Banner.mp4",
+          "video_url_mobile_webm": "https:\/\/storage.googleapis.com\/cdn.nordgreen.com\/videos\/Mobile_Banner.webm",
+          "error_message": "Sorry, your browser doesn't support embedded videos."
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "pagination_limit": 16,
+          "subheading": "Lorem ipsum dolor sit amet, vix at magna necessitatibus. An odio doming oblique has. Eu eum minim mandamus, sit mollis iisque cu. At mei sonet causae concludaturque. Ad apeirian moderatius pro, pri quis sumo pericula ea",
+          "show_tags": true,
+          "tag_all_text": "All",
+          "text_no_posts_found": "No posts yet"
+        }
+      },
+      "related-products": {
+        "type": "related-products",
+        "settings": {
+          "heading": "You May Also Like...",
+          "products_shown": 4,
+          "background_color": "#f8f8f8"
+        }
+      },
+      "list-collections": {
+        "type": "list-collections",
+        "blocks": {
+          "1571781410940": {
+            "type": "collection",
+            "settings": {
+              "collection": "mens-watches"
+            }
+          },
+          "1571780786341": {
+            "type": "collection",
+            "settings": {
+              "collection": "womens-watches"
+            }
+          },
+          "1571781416812": {
+            "type": "collection",
+            "settings": {
+              "collection": "watch-straps"
+            }
+          }
+        },
+        "block_order": [
+          "1571781410940",
+          "1571780786341",
+          "1571781416812"
+        ],
+        "settings": {
+          "products_singular": "Product",
+          "products_plural": "Products",
+          "button_text_view_collection": "browse selection"
+        }
+      },
+      "list-collections-hero": {
+        "type": "list-collections-hero",
+        "settings": {
+          "title": "Our Range",
+          "description": "Lorem ipsum dolor sit amet, vix at magna necessitatibus. An odio doming oblique has. Eu eum minim mandamus, sit mollis iisque cu. At mei sonet causae concludaturque. Ad apeirian moderatius pro, pri quis sumo pericula ea",
+          "image": "shopify:\/\/shop_images\/collection-womens-watches-3.jpg"
+        }
+      },
+      "1571323469939": {
+        "type": "banner",
+        "settings": {
+          "is_banner_full_width": false,
+          "enable_overlay": true,
+          "overlay_color": "#000",
+          "overlay_opacity": 10,
+          "image_desktop": "shopify:\/\/shop_images\/banner-our-story-desktop.jpg",
+          "image_mobile": "shopify:\/\/shop_images\/banner-our-story-mobile.jpg",
+          "heading": "OUR STORY",
+          "subheading": "As watch-lovers, we believe all watches should have the highest quality and best design. As Danes, we believe in companies that are honest, sustainable, and that put others first.",
+          "text_position_vertical": "center",
+          "text_position_horisontal": "center",
+          "text_alignment": "center",
+          "text_colour": "#ffffff",
+          "button_1_text": "Read Our Story",
+          "button_1_url": "shopify:\/\/pages\/our-story",
+          "button_1_colour": "button-outlineWhite",
+          "button_2_text": "Shop now",
+          "button_2_url": "",
+          "button_2_colour": "button-white"
+        }
+      },
+      "hero-banner": {
+        "type": "hero-banner",
+        "settings": {
+          "is_enabled": true,
+          "enable_overlay": true,
+          "overlay_color": "#000",
+          "overlay_opacity": 15,
+          "image_desktop": "shopify:\/\/shop_images\/hero-video-poster-desktop.jpg",
+          "image_mobile": "shopify:\/\/shop_images\/hero-video-poster-mobile.jpg",
+          "heading": "Introducing Vanilla",
+          "subheading": "The holy grail of Shopify themes",
+          "text_position_vertical": "center",
+          "text_position_horisontal": "center",
+          "text_alignment": "center",
+          "text_colour": "#ffffff",
+          "button_colour": "button button-white",
+          "button_1_text": "BUY NOW",
+          "button_1_url": "shopify:\/\/collections\/mens-watches",
+          "button_2_text": "LEARN MORE",
+          "button_2_url": "shopify:\/\/collections\/womens-watches"
+        }
+      },
+      "1571327087671": {
+        "type": "newsletter-signup",
+        "settings": {
+          "newsletter_title": "Sign up for our Newsletter",
+          "newsletter_subtitle": "to participate in our Giveaway!",
+          "newsletter_placeholder": "E-mail address",
+          "newsletter_subscribe": "Subscribe",
+          "newsletter_success_text": "Thanks for subscribing!",
+          "newsletter_error_text": "Something went wrong. Please try again",
+          "newsletter_error_email_validation": "Enter a valid email address.",
+          "newsletter_terms_conditions": "<span>Subscribe me to Vanilla's newsletter<\/span>I confirm that I am 16 years or older and I consent to Vanilla processing my personal data in accordance with their",
+          "newsletter_privacy_link_text": "privacy policy",
+          "newsletter_privacy_link_url": "\/pages\/privacy-policy"
+        }
+      },
+      "collection-hero": {
+        "type": "collection-hero",
+        "settings": {}
+      },
+      "collection-products-list": {
+        "type": "collection-products-list",
+        "settings": {
+          "pagination_limit": 50,
+          "text_no_products_found": "No products in this collection."
+        }
+      },
+      "product-flip-blocks": {
+        "type": "product-flip-blocks",
+        "blocks": {
+          "1571352931633": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": false,
+              "heading": "We give back, together",
+              "text": "<p>Respecting our community and the people around us is a core value that we Danes uphold with tenacity. We wanted to incorporate these values into the brand as best we could, which led us to create our Giving Back Program.<\/p>\n<p>For each watch sold we empower our customers to give back to one of three causes. The unique serial number provided on the back of each watch allows us to track the impact that your donation has made.<\/p>",
+              "link_text": "Read More",
+              "link_url": "shopify:\/\/blogs\/blog\/lorem-ipsum-dolor-sit-amet-has-ne-eros-minimum-disputationi",
+              "image": "shopify:\/\/shop_images\/flip-blocks-giving-back.jpg"
+            }
+          },
+          "1571353445054": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": true,
+              "heading": "Our Design Thought",
+              "text": "<p>As Danes, we were raised with the values of simplicity and balance. To us, this means that people always come first, that sometimes it&rsquo;s healthy to leave a little early on a Friday for an after-work beer, and that everything is better with a little &ldquo;hygge.&rdquo; The Danish lifestyle is all about removing the complexities of modern living and appreciating the little things--about having less and enjoying more.<\/p>",
+              "link_text": "Read More",
+              "link_url": "shopify:\/\/blogs\/blog\/_test",
+              "image": "shopify:\/\/shop_images\/flip-blocks-design-thought.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1571352931633",
+          "1571353445054"
+        ],
+        "settings": {
+          "show_section": true
+        }
+      },
+      "newsletter-signup": {
+        "type": "newsletter-signup",
+        "settings": {
+          "newsletter_title": "Join Our Newsletter",
+          "newsletter_subtitle": "Sign up to enjoy free shipping and returns on your first order.",
+          "newsletter_placeholder": "E-mail address",
+          "newsletter_subscribe": "Subscribe",
+          "newsletter_success_text": "Thanks for subscribing!",
+          "newsletter_error_text": "Something went wrong. Please try again",
+          "newsletter_error_email_validation": "Enter a valid email address.",
+          "newsletter_terms_conditions": "<span>Subscribe me to Vanilla's newsletter<\/span>I confirm that I am 16 years or older and I consent to Vanilla processing my personal data in accordance with their",
+          "newsletter_privacy_link_text": "privacy policy",
+          "newsletter_privacy_link_url": "\/pages\/privacy-policy"
+        }
+      },
+      "1571387411263": {
+        "type": "featured-products",
+        "blocks": {
+          "1571387414593": {
+            "type": "product",
+            "settings": {
+              "product": "infinity-white-dial-olive-green-nylon-watch-strap"
+            }
+          },
+          "1571387893689": {
+            "type": "product",
+            "settings": {
+              "product": "philosopher-white-dial-navy-blue-nylon-watch-strap"
+            }
+          },
+          "1571387907184": {
+            "type": "product",
+            "settings": {
+              "product": "philosopher-white-dial-mesh-watch-strap"
+            }
+          },
+          "1571387917374": {
+            "type": "product",
+            "settings": {
+              "product": "native-black-dial-mesh-watch-strap"
+            }
+          }
+        },
+        "block_order": [
+          "1571387414593",
+          "1571387893689",
+          "1571387907184",
+          "1571387917374"
+        ],
+        "settings": {
+          "heading": "Staff Picks",
+          "show_prices": true
+        }
+      },
+      "page-not-found-template": {
+        "type": "page-not-found-template",
+        "blocks": {
+          "1571402368171": {
+            "type": "button",
+            "settings": {
+              "button_text": "Home",
+              "button_link": "\/"
+            }
+          },
+          "1571402376191": {
+            "type": "button",
+            "settings": {
+              "button_text": "Shop Now",
+              "button_link": "shopify:\/\/collections"
+            }
+          }
+        },
+        "block_order": [
+          "1571402368171",
+          "1571402376191"
+        ],
+        "settings": {
+          "heading": "Page not found",
+          "subheading": "Sorry, we couldn't find the page you are looking for"
+        }
+      },
+      "1571665059344": {
+        "type": "flip-blocks",
+        "blocks": {
+          "1571665067069": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": false,
+              "heading": "We give back, together",
+              "text": "<p>Respecting our community and the people around us is a core value that we Danes uphold with tenacity. We wanted to incorporate these values into the brand as best we could, which led us to create our Giving Back Program.<\/p>\n<p>For each watch sold we empower our customers to give back to one of three causes. The unique serial number provided on the back of each watch allows us to track the impact that your donation has made.<\/p>",
+              "link_text": "Read more",
+              "link_url": "shopify:\/\/pages\/our-story",
+              "image": "shopify:\/\/shop_images\/flip-blocks-giving-back.jpg"
+            }
+          },
+          "1571665102394": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": true,
+              "heading": "Our Design Thought",
+              "text": "<p>As Danes, we were raised with the values of simplicity and balance. To us, this means that people always come first, that sometimes it&rsquo;s healthy to leave a little early on a Friday for an after-work beer, and that everything is better with a little &ldquo;hygge.&rdquo; The Danish lifestyle is all about removing the complexities of modern living and appreciating the little things--about having less and enjoying more.<\/p>",
+              "link_text": "Read more",
+              "link_url": "shopify:\/\/pages\/our-story",
+              "image": "shopify:\/\/shop_images\/flip-blocks-design-thought.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1571665067069",
+          "1571665102394"
+        ],
+        "settings": {}
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "enable_social_sharing": false
+        }
+      },
+      "article-comments": {
+        "type": "article-comments",
+        "settings": {
+          "comments_singular": "Comment",
+          "comments_plural": "Comments",
+          "form_title": "Leave a comment",
+          "form_input_label_name": "Name",
+          "form_input_label_email": "E-mail",
+          "form_input_label_message": "Message",
+          "form_button_submit_text": "Post Comment",
+          "form_moderated_text": "Please note, comments must be approved before they are published",
+          "form_input_name_error_text": "can't be blank.",
+          "form_input_email_error_text": "must be formatted as an email.",
+          "form_input_message_error_text": "can't be blank.",
+          "form_success_text": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated."
+        }
+      },
+      "page-contact-template": {
+        "type": "page-contact-template",
+        "settings": {
+          "form_input_label_name": "Name",
+          "form_input_label_order_no": "Order number",
+          "form_input_label_email": "E-mail",
+          "form_input_label_phone": "Phone",
+          "form_input_label_message": "Message",
+          "form_button_submit_text": "Send",
+          "form_input_email_error_text": "must be formatted as an email.",
+          "form_input_message_error_text": "can't be blank.",
+          "form_success_text": "Thanks for contacting us. We'll get back to you as soon as possible."
+        }
+      },
+      "flip-blocks": {
+        "type": "flip-blocks",
+        "blocks": {
+          "1571830769718": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": false,
+              "heading": "We give back, together",
+              "text": "<p>Respecting our community and the people around us is a core value that we Danes uphold with tenacity. We wanted to incorporate these values into the brand as best we could, which led us to create our Giving Back Program.<\/p>\n<p>For each watch sold we empower our customers to give back to one of three causes. The unique serial number provided on the back of each watch allows us to track the impact that your donation has made.<\/p>",
+              "link_text": "",
+              "link_url": "",
+              "image": "shopify:\/\/shop_images\/flip-blocks-giving-back.jpg"
+            }
+          },
+          "1571830797428": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": true,
+              "heading": "Our Design Thought",
+              "text": "<p>As Danes, we were raised with the values of simplicity and balance. To us, this means that people always come first, that sometimes it&rsquo;s healthy to leave a little early on a Friday for an after-work beer, and that everything is better with a little &ldquo;hygge.&rdquo; The Danish lifestyle is all about removing the complexities of modern living and appreciating the little things--about having less and enjoying more.<\/p>\n<p><\/p>",
+              "link_text": "",
+              "link_url": "",
+              "image": "shopify:\/\/shop_images\/flip-blocks-design-thought.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1571830769718",
+          "1571830797428"
+        ],
+        "settings": {}
+      },
+      "banner": {
+        "type": "banner",
+        "settings": {
+          "is_banner_full_width": false,
+          "enable_overlay": true,
+          "overlay_color": "#000",
+          "overlay_opacity": 25,
+          "image_desktop": "shopify:\/\/shop_images\/banner-our-story-desktop.jpg",
+          "image_mobile": "shopify:\/\/shop_images\/banner-our-story-mobile.jpg",
+          "heading": "OUR STORY",
+          "subheading": "As watch-lovers, we believe all watches should have the highest quality and best design. As Danes, we believe in companies that are honest, sustainable, and that put others first.",
+          "text_position_vertical": "center",
+          "text_position_horisontal": "center",
+          "text_alignment": "center",
+          "text_colour": "#ffffff",
+          "button_1_text": "Shop now",
+          "button_1_url": "",
+          "button_1_colour": "button-white",
+          "button_2_text": "Shop now",
+          "button_2_url": "",
+          "button_2_colour": "button-white"
+        }
+      },
+      "page-about-flip-blocks-1": {
+        "type": "page-about-flip-blocks-1",
+        "blocks": {
+          "1571900884673": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": false,
+              "heading": "We give back, together",
+              "text": "<p>Respecting our community and the people around us is a core value that we Danes uphold with tenacity. We wanted to incorporate these values into the brand as best we could, which led us to create our Giving Back Program.<\/p>\n<p>For each watch sold we empower our customers to give back to one of three causes. The unique serial number provided on the back of each watch allows us to track the impact that your donation has made.<\/p>",
+              "link_text": "",
+              "link_url": "",
+              "image": "shopify:\/\/shop_images\/flip-blocks-giving-back.jpg"
+            }
+          },
+          "1571900921677": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": true,
+              "heading": "Our Design Thought",
+              "text": "<p>As Danes, we were raised with the values of simplicity and balance. To us, this means that people always come first, that sometimes it&rsquo;s healthy to leave a little early on a Friday for an after-work beer, and that everything is better with a little &ldquo;hygge.&rdquo; The Danish lifestyle is all about removing the complexities of modern living and appreciating the little things--about having less and enjoying more.<\/p>",
+              "link_text": "",
+              "link_url": "",
+              "image": "shopify:\/\/shop_images\/flip-blocks-design-thought.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1571900884673",
+          "1571900921677"
+        ],
+        "settings": {}
+      },
+      "page-about-banner": {
+        "type": "page-about-banner",
+        "settings": {
+          "is_banner_full_width": false,
+          "enable_overlay": true,
+          "overlay_color": "#000",
+          "overlay_opacity": 10,
+          "image_desktop": "shopify:\/\/shop_images\/banner-our-story-desktop.jpg",
+          "image_mobile": "shopify:\/\/shop_images\/banner-our-story-mobile.jpg",
+          "heading": "OUR STORY",
+          "subheading": "As watch-lovers, we believe all watches should have the highest quality and best design. As Danes, we believe in companies that are honest, sustainable, and that put others first.",
+          "text_position_vertical": "center",
+          "text_position_horisontal": "center",
+          "text_alignment": "center",
+          "text_colour": "#ffffff",
+          "button_colour": "button button-white",
+          "button_1_text": "Shop now",
+          "button_1_url": "",
+          "button_2_text": "Shop now",
+          "button_2_url": ""
+        }
+      },
+      "page-about-flip-blocks-2": {
+        "type": "page-about-flip-blocks-2",
+        "blocks": {
+          "1571901022270": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": false,
+              "heading": "We give back, together",
+              "text": "<p>Respecting our community and the people around us is a core value that we Danes uphold with tenacity. We wanted to incorporate these values into the brand as best we could, which led us to create our Giving Back Program.<\/p>\n<p>For each watch sold we empower our customers to give back to one of three causes. The unique serial number provided on the back of each watch allows us to track the impact that your donation has made.<\/p>",
+              "link_text": "",
+              "link_url": "",
+              "image": "shopify:\/\/shop_images\/flip-blocks-giving-back.jpg"
+            }
+          },
+          "1571901039984": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": true,
+              "heading": "Our Design Thought",
+              "text": "<p>As Danes, we were raised with the values of simplicity and balance. To us, this means that people always come first, that sometimes it&rsquo;s healthy to leave a little early on a Friday for an after-work beer, and that everything is better with a little &ldquo;hygge.&rdquo; The Danish lifestyle is all about removing the complexities of modern living and appreciating the little things--about having less and enjoying more.<\/p>",
+              "link_text": "",
+              "link_url": "",
+              "image": "shopify:\/\/shop_images\/flip-blocks-design-thought.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1571901022270",
+          "1571901039984"
+        ],
+        "settings": {}
+      },
+      "1576163996328": {
+        "type": "hero",
+        "blocks": {
+          "1576164000644": {
+            "type": "image",
+            "settings": {
+              "enable_overlay": true,
+              "overlay_color": "#000",
+              "overlay_opacity": 10,
+              "image_desktop": "shopify:\/\/shop_images\/featured-content-2.jpg",
+              "image_mobile": "",
+              "heading": "Women's Watches",
+              "subheading": "A versatile accessory that matches any outfit or occasion.",
+              "text_colour": "#ffffff",
+              "text_position_vertical": "center",
+              "text_position_horisontal": "center",
+              "text_alignment": "center",
+              "button_1_text": "Explore watches",
+              "button_1_url": "shopify:\/\/collections\/womens-watches",
+              "button_1_colour": "button-white",
+              "button_2_text": "Shop now",
+              "button_2_url": "",
+              "button_2_colour": "button-white"
+            }
+          },
+          "1576164006245": {
+            "type": "image",
+            "settings": {
+              "enable_overlay": true,
+              "overlay_color": "#000",
+              "overlay_opacity": 10,
+              "image_desktop": "shopify:\/\/shop_images\/featured-content-3.jpg",
+              "image_mobile": "",
+              "heading": "Men's Watches",
+              "subheading": "A great timepiece is an asset in any man's wardrobe.",
+              "text_colour": "#ffffff",
+              "text_position_vertical": "center",
+              "text_position_horisontal": "center",
+              "text_alignment": "center",
+              "button_1_text": "Explore watches",
+              "button_1_url": "shopify:\/\/collections\/mens-watches",
+              "button_1_colour": "button-white",
+              "button_2_text": "Shop now",
+              "button_2_url": "",
+              "button_2_colour": "button-white"
+            }
+          }
+        },
+        "block_order": [
+          "1576164000644",
+          "1576164006245"
+        ],
+        "settings": {}
+      },
+      "1576164873569": {
+        "type": "hero",
+        "disabled": true,
+        "blocks": {
+          "1576164878415": {
+            "type": "image",
+            "settings": {
+              "enable_overlay": true,
+              "overlay_color": "#000",
+              "overlay_opacity": 10,
+              "image_desktop": "shopify:\/\/shop_images\/hero-banner-test.jpg",
+              "image_mobile": "",
+              "heading": "Gold Watches",
+              "subheading": "Lorem ipsum",
+              "text_colour": "#ffffff",
+              "text_position_vertical": "center",
+              "text_position_horisontal": "center",
+              "text_alignment": "center",
+              "button_1_text": "For men",
+              "button_1_url": "shopify:\/\/collections\/mens-watches",
+              "button_1_colour": "button-white",
+              "button_2_text": "For women",
+              "button_2_url": "shopify:\/\/collections\/womens-watches",
+              "button_2_colour": "button-white"
+            }
+          },
+          "1576164903647": {
+            "type": "video",
+            "settings": {
+              "enable_overlay": true,
+              "overlay_color": "#000",
+              "overlay_opacity": 10,
+              "text_colour": "#ffffff",
+              "text_position_vertical": "center",
+              "text_position_horisontal": "center",
+              "text_alignment": "left",
+              "heading": "Our range",
+              "subheading": "Lorem ipsum",
+              "button_text_1": "Men's Watches",
+              "button_link_1": "shopify:\/\/collections\/mens-watches",
+              "button_1_colour": "button-white",
+              "button_text_2": "Women's Watches",
+              "button_link_2": "shopify:\/\/collections\/womens-watches",
+              "button_2_colour": "button-white",
+              "video_poster_desktop": "",
+              "video_poster_mobile": "",
+              "video_url_desktop_mp4": "https:\/\/storage.googleapis.com\/cdn.nordgreen.com\/videos\/Mobile_Banner.mp4",
+              "video_url_desktop_webm": "https:\/\/storage.googleapis.com\/cdn.nordgreen.com\/videos\/Mobile_Banner.webm",
+              "video_url_mobile_mp4": "https:\/\/storage.googleapis.com\/cdn.nordgreen.com\/videos\/Mobile_Banner.mp4",
+              "video_url_mobile_webm": "https:\/\/storage.googleapis.com\/cdn.nordgreen.com\/videos\/Mobile_Banner.webm"
+            }
+          }
+        },
+        "block_order": [
+          "1576164878415",
+          "1576164903647"
+        ],
+        "settings": {}
+      },
+      "1576165082201": {
+        "type": "hero",
+        "disabled": true,
+        "blocks": {
+          "1576236858590": {
+            "type": "image",
+            "settings": {
+              "enable_overlay": false,
+              "overlay_color": "#000",
+              "overlay_opacity": 25,
+              "image_desktop": "shopify:\/\/shop_images\/brand-teaser.jpg",
+              "image_mobile": "shopify:\/\/shop_images\/hero-video-poster-mobile.jpg",
+              "heading": "Introducing Vanilla",
+              "subheading": "The holy grail of Shopify templates",
+              "text_colour": "#ffffff",
+              "text_position_vertical": "center",
+              "text_position_horisontal": "center",
+              "text_alignment": "center",
+              "button_1_text": "Men's Watches",
+              "button_1_url": "shopify:\/\/collections\/mens-watches",
+              "button_1_colour": "button-white",
+              "button_2_text": "Women's watches",
+              "button_2_url": "shopify:\/\/collections\/womens-watches",
+              "button_2_colour": "button-white"
+            }
+          }
+        },
+        "block_order": [
+          "1576236858590"
+        ],
+        "settings": {}
+      },
+      "1576234362639": {
+        "type": "hero",
+        "disabled": true,
+        "blocks": {
+          "1576234368507": {
+            "type": "image",
+            "settings": {
+              "enable_overlay": true,
+              "overlay_color": "#000",
+              "overlay_opacity": 25,
+              "image_desktop": "shopify:\/\/shop_images\/brand-teaser.jpg",
+              "image_mobile": "shopify:\/\/shop_images\/hero-video-poster-mobile.jpg",
+              "heading": "Introducing Vanilla",
+              "subheading": "The holy grail of Shopify templates",
+              "text_colour": "#ffffff",
+              "text_position_vertical": "center",
+              "text_position_horisontal": "center",
+              "text_alignment": "center",
+              "button_1_text": "Shop now",
+              "button_1_url": "\/",
+              "button_1_colour": "button-white",
+              "button_2_text": "Shop now",
+              "button_2_url": "",
+              "button_2_colour": "button-white"
+            }
+          }
+        },
+        "block_order": [
+          "1576234368507"
+        ],
+        "settings": {}
+      },
+      "collection-based-content": {
+        "type": "collection-based-content",
+        "settings": {}
+      },
+      "brands": {
+        "type": "brands",
+        "blocks": {
+          "1578929261771": {
+            "type": "brand",
+            "settings": {
+              "brand_name": "Nordgreen",
+              "brand_logo": "shopify:\/\/shop_images\/nordgreen_logo_white.png",
+              "brand_logo_width": 145,
+              "brand_url": "https:\/\/nordgreen.dk"
+            }
+          },
+          "1578928953017": {
+            "type": "brand",
+            "settings": {
+              "brand_name": "Siccaro",
+              "brand_logo": "shopify:\/\/shop_images\/siccaro_logo_white.png",
+              "brand_logo_width": 120,
+              "brand_url": "https:\/\/siccaro.dk"
+            }
+          },
+          "1578929285650": {
+            "type": "brand",
+            "settings": {
+              "brand_name": "MessyWeekend",
+              "brand_logo": "shopify:\/\/shop_images\/messyweekend_logo_white.png",
+              "brand_logo_width": 155,
+              "brand_url": "https:\/\/messyweekend.dk"
+            }
+          },
+          "1578929303976": {
+            "type": "brand",
+            "settings": {
+              "brand_name": "Jamie Looks",
+              "brand_logo": "shopify:\/\/shop_images\/jamie_looks_logo_white.png",
+              "brand_logo_width": 145,
+              "brand_url": "https:\/\/jamielooks.dk"
+            }
+          },
+          "1578929619529": {
+            "type": "brand",
+            "settings": {
+              "brand_name": "WallPipe",
+              "brand_logo": "shopify:\/\/shop_images\/wallpipe_logo_white.png",
+              "brand_logo_width": 70,
+              "brand_url": "https:\/\/wallpipe.dk"
+            }
+          },
+          "1578932837600": {
+            "type": "brand",
+            "settings": {
+              "brand_name": "Project Nord",
+              "brand_logo": "shopify:\/\/shop_images\/project_nord_logo_white.png",
+              "brand_logo_width": 160,
+              "brand_url": "https:\/\/projectnord.com"
+            }
+          }
+        },
+        "block_order": [
+          "1578929261771",
+          "1578928953017",
+          "1578929285650",
+          "1578929303976",
+          "1578929619529",
+          "1578932837600"
+        ],
+        "settings": {
+          "show_brands_section": true,
+          "brand_heading": "Visit our partner brands",
+          "utm_source": "vanilla",
+          "text_color": "#fff",
+          "background_color": "#2e3b47"
+        }
+      },
+      "1578999577196": {
+        "type": "media",
+        "blocks": {
+          "1578999577196-0": {
+            "type": "media",
+            "settings": {
+              "hide_on_mobile": false,
+              "name": "",
+              "logo_url": "",
+              "logo": "shopify:\/\/shop_images\/vanilla-logo_medium_4da642e1-a75e-430f-b929-ab0cd14a7a31.png",
+              "logo_width": 90
+            }
+          },
+          "1578999577196-1": {
+            "type": "media",
+            "settings": {
+              "hide_on_mobile": false,
+              "name": "",
+              "logo_url": "",
+              "logo": "",
+              "logo_width": 100
+            }
+          },
+          "1578999577196-2": {
+            "type": "media",
+            "settings": {
+              "hide_on_mobile": false,
+              "name": "",
+              "logo_url": "",
+              "logo": "",
+              "logo_width": 100
+            }
+          },
+          "1578999577196-3": {
+            "type": "media",
+            "settings": {
+              "hide_on_mobile": false,
+              "name": "",
+              "logo_url": "",
+              "logo": "",
+              "logo_width": 100
+            }
+          },
+          "1578999577196-4": {
+            "type": "media",
+            "settings": {
+              "hide_on_mobile": false,
+              "name": "",
+              "logo_url": "",
+              "logo": "",
+              "logo_width": 100
+            }
+          },
+          "1578999577196-5": {
+            "type": "media",
+            "settings": {
+              "hide_on_mobile": false,
+              "name": "",
+              "logo_url": "",
+              "logo": "",
+              "logo_width": 100
+            }
+          },
+          "1578999577196-6": {
+            "type": "media",
+            "settings": {
+              "hide_on_mobile": false,
+              "name": "",
+              "logo_url": "",
+              "logo": "",
+              "logo_width": 100
+            }
+          },
+          "1578999577196-7": {
+            "type": "media",
+            "settings": {
+              "hide_on_mobile": false,
+              "name": "",
+              "logo_url": "",
+              "logo": "",
+              "logo_width": 100
+            }
+          }
+        },
+        "block_order": [
+          "1578999577196-0",
+          "1578999577196-1",
+          "1578999577196-2",
+          "1578999577196-3",
+          "1578999577196-4",
+          "1578999577196-5",
+          "1578999577196-6",
+          "1578999577196-7"
+        ],
+        "settings": {
+          "section_title": "As seen in"
+        }
+      },
+      "active-campaign": {
+        "type": "active-campaign",
+        "settings": {
+          "account_id": ""
+        }
+      },
+      "popup-store-selector": {
+        "type": "popup-store-selector",
+        "blocks": {
+          "1579616393412": {
+            "type": "store",
+            "settings": {
+              "store_url": "beefy-miracle.myshopify.com",
+              "store_name": "🌍 International",
+              "store_currency": "USD"
+            }
+          },
+          "1579616430711": {
+            "type": "store",
+            "settings": {
+              "store_url": "vanilla.de",
+              "store_name": "🇩🇪 Germany",
+              "store_currency": "Euro"
+            }
+          },
+          "1579618954317": {
+            "type": "store",
+            "settings": {
+              "store_url": "vanilla.dk",
+              "store_name": "🇩🇰 Denmark",
+              "store_currency": "DKK"
+            }
+          }
+        },
+        "block_order": [
+          "1579616393412",
+          "1579616430711",
+          "1579618954317"
+        ],
+        "settings": {
+          "enable_store_selector": false,
+          "title": "Welcome to Vanilla",
+          "description": "",
+          "label_text": "You are currently shopping in",
+          "button_text": "Go to shop",
+          "usp_1_text": "Free express delivery and returns",
+          "usp_2_text": "Pay in your local currency",
+          "payment_methods_text": "Payment methods"
+        }
+      },
+      "1579643987923": {
+        "type": "instagram-feed",
+        "settings": {
+          "title": "Stay up to date",
+          "instagram_username": "nordgreenofficial",
+          "show_instagram_username": true,
+          "instagram_items": 12,
+          "instagram_items_per_row": 6,
+          "button_text": "Follow us on Instagram",
+          "button_url": "https:\/\/www.instagram.com\/nordgreenofficial\/?hl=en"
+        }
+      },
+      "custom-snippets": {
+        "type": "custom-snippets",
+        "settings": {}
+      },
+      "1582726261071": {
+        "type": "testimonials",
+        "blocks": {
+          "1582726371956": {
+            "type": "block",
+            "settings": {
+              "review_text": "Love it, looks great, fits well, and giving something back certainly was a deal maker.",
+              "review_by": "Nigel Harragan"
+            }
+          },
+          "1582726392732": {
+            "type": "block",
+            "settings": {
+              "review_text": "A piece of art that fits on your wrist which is easy to understand and appreciate and very affordable; a true timeless classic.",
+              "review_by": "Jason Tan"
+            }
+          },
+          "1582726419293": {
+            "type": "block",
+            "settings": {
+              "review_text": "Watch looks great. I like the simple and clean design. Fits well without any issue. It is a very light weight watch. I prefer heavier design so it took a bit of time to get use to the lightness. Not a big issue.",
+              "review_by": "Steven Liew"
+            }
+          },
+          "1582727550191": {
+            "type": "block",
+            "settings": {
+              "review_text": "Classy and elegant time piece. Its clean design really shows what a watch should be like.",
+              "review_by": "Ebin Abraham"
+            }
+          },
+          "1582727568593": {
+            "type": "block",
+            "settings": {
+              "review_text": "Beautifully designed and made! Couldn’t help but to smile when I opened the box.",
+              "review_by": "Jan Wong"
+            }
+          },
+          "1582727588022": {
+            "type": "block",
+            "settings": {
+              "review_text": "Watch was really nice and much more than photos on their website.",
+              "review_by": "Hasan Kara"
+            }
+          }
+        },
+        "block_order": [
+          "1582726371956",
+          "1582726392732",
+          "1582726419293",
+          "1582727550191",
+          "1582727568593",
+          "1582727588022"
+        ],
+        "settings": {
+          "section_title": "OUR CUSTOMERS SAY"
+        }
+      },
+      "account-header": {
+        "type": "account-header",
+        "settings": {
+          "section_title": "My Account",
+          "log_out_text": "Log out"
+        }
+      },
+      "account-details": {
+        "type": "account-details",
+        "settings": {
+          "section_title": "Personal information"
+        }
+      },
+      "account-recharge": {
+        "type": "account-recharge",
+        "settings": {
+          "section_title": "Subscriptions",
+          "link_text": "Manage Subscriptions"
+        }
+      },
+      "account-order-history": {
+        "type": "account-order-history",
+        "settings": {
+          "title": "Order history",
+          "no_orders_text": "You haven't placed any orders yet.",
+          "view_more_button_text": "View more",
+          "order_number": "Order number",
+          "view_order_text": "View order",
+          "order_date_text": "Order date",
+          "order_total_text": "Total",
+          "order_payment_status_text": "Payment status",
+          "order_fulfilment_status_text": "Fulfilment status"
+        }
+      },
+      "biolabs-about-hero-banner": {
+        "type": "biolabs-about-hero-banner",
+        "settings": {
+          "text": "Our story",
+          "heading": "We offer skin, hair and body care formulations created with meticulous attention to detail, and with efficacy and sensory pleasure in mind.",
+          "image_desktop": "shopify:\/\/shop_images\/marketing-full-bleed-1.jpg",
+          "image_mobile": ""
+        }
+      },
+      "biolabs-about-flip-blocks-1": {
+        "type": "biolabs-about-flip-blocks-1",
+        "blocks": {
+          "1586953912949": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": true,
+              "heading": "Aesop was established in 1987. We are headquartered in Melbourne, and have offices and stores in many parts of the world.",
+              "text": "<p>Our objective has always been to formulate skin, hair and body care products of the finest quality; we investigate widely to source plant-based and laboratory-made ingredients, and use only those with a proven record of safety and efficacy. In each of our unique stores, informed consultants are pleased to introduce the Aesop range and to guide your selections.<\/p>",
+              "link_text": "Our approach to products →",
+              "link_url": "\/",
+              "image": "shopify:\/\/shop_images\/Our-Story-Inset-1-1760x2640.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1586953912949"
+        ],
+        "settings": {}
+      },
+      "biolabs-about-quote-1": {
+        "type": "biolabs-about-quote-1",
+        "settings": {
+          "quote": "A sincere interest in intelligent and sustainable design extends to every aspect of Aesop’s workings.",
+          "link_text": "Read our philosophy on design →",
+          "link_url": "\/"
+        }
+      },
+      "biolabs-about-gallery": {
+        "type": "biolabs-about-gallery",
+        "blocks": {
+          "1586956531415": {
+            "type": "block-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Our-Story-Carousel-1-Desktop-2880x1620.jpg"
+            }
+          },
+          "1586956543211": {
+            "type": "block-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Our-Story-Carousel-2-Desktop-2880x1620.jpg"
+            }
+          },
+          "1586956615112": {
+            "type": "block-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Our-Story-Carousel-3-Desktop-2880x1620.jpg"
+            }
+          },
+          "1586956630357": {
+            "type": "block-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Our-Story-Carousel-4-Desktop-2880x1620.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1586956531415",
+          "1586956543211",
+          "1586956615112",
+          "1586956630357"
+        ],
+        "settings": {}
+      },
+      "biolabs-about-flip-blocks-2": {
+        "type": "biolabs-about-flip-blocks-2",
+        "blocks": {
+          "1586954311242": {
+            "type": "block-image",
+            "settings": {
+              "enable_flip": false,
+              "heading": "When considering new locations, it is our intention to weave ourselves into the fabric of the street and add something of merit rather than impose a discordant presence.",
+              "text": "In 2003, in an underground nook in the Melbourne bayside suburb of St Kilda, we hosted our first in-store customers. The space – once a narrow ramp descending into an underground carpark – set the benchmark for future architectural ambitions. In seeking new locations, our first consideration is always to work with what is already in place; we tread lightly with respect for the past, present and future.",
+              "link_text": "Visit an Aesop location →",
+              "link_url": "\/",
+              "image": "shopify:\/\/shop_images\/Our-Story-Inset-2-1760x2640.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1586954311242"
+        ],
+        "settings": {}
+      },
+      "biolabs-about-quote-2": {
+        "type": "biolabs-about-quote-2",
+        "settings": {
+          "quote": "‘Do not wish to be anything but what you are, and try to be that perfectly’",
+          "link_text": "Saint Francis de Sales",
+          "link_url": "\/"
+        }
+      }
+    },
+    "content_for_index": [
+      "1576163996328",
+      "1576165082201",
+      "1568667753820",
+      "1568644662150",
+      "1568809708434",
+      "1568652548273",
+      "1571323469939",
+      "1571387411263",
+      "1571665059344",
+      "1571327087671",
+      "1576164873569",
+      "1576234362639",
+      "1578999577196",
+      "1579643987923",
+      "1582726261071"
+    ]
+  }
+}
